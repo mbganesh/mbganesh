@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello, I'm [Ganesh!](https://mbganesh.github.io/my_profile/) 👋
 
-<!--
-**mbganesh/mbganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbganesh&label=Views&color=blue&style=plastic" alt="mbganesh" /> </p>
 
-Here are some ideas to get you started:
+<a href="https://github.com/mbganesh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbganesh&theme=light&hide_langs_below=1" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/mbganesh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbganesh&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+
+
+<a href="https://github.com/mbganesh/my_shop">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mbganesh&repo=my_shop&theme=light" />
+</a>
