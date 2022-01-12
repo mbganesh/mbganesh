@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbganesh&label=Views&color=blue&style=plastic" alt="mbganesh" /> </p>
 
 [![Twitter: Ganesh_jdev](https://img.shields.io/twitter/follow/Ganesh_jdev?style=social)](https://twitter.com/Ganesh_jdev)
-[![Linkedin: ganesh-jdev](https://img.shields.io/badge/-ganesh-jdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganesh-jdev/)](https://www.linkedin.com/in/ganesh-jdev/)
+[![Linkedin: ganesh-jdev](https://img.shields.io/badge/ganesh-jdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ganesh-jdev/)](https://www.linkedin.com/in/ganesh-jdev/)
 [![GitHub mbganesh](https://img.shields.io/github/followers/mbganesh?label=follow&style=social)](https://github.com/mbganesh)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://mbganesh.github.io/my_profile/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-mbganesh.profile-2648ff?style=flat-square&logo=google-chrome)](https://mbganesh.github.io/my_profile/)
 
 
 
